@@ -50,26 +50,31 @@ Hospital Management System using MySQL, Php and Bootstrap
   The XAMPP Control Panel allows you to manually start and stop Apache and MySQL. To start Apache or MySQL manually, click the ‘Start’ button under ‘Actions’.
   
   
-![image](https://github.com/Kshitijboi/Ethicure/assets/116621388/98f5d373-174c-4ccc-bff3-d479e758818b)
+![image](https://github.com/Kshitijboi/EthiCure/assets/116621388/cf5fc5ee-580a-4b2e-bb87-9f7272913778)
+
 
 
 ## GETTING INTO THE PROJECT:
 The system includes a ‘Home’ page where patients, doctors, and administrators can log in to their accounts. Below is a visual guide to the system's main features and modules.
 
 
-![image](https://github.com/Kshitijboi/Ethicure/assets/116621388/7e564479-85bd-4961-b7dc-f906e88f7063)
+![image](https://github.com/Kshitijboi/EthiCure/assets/116621388/785cac00-3f2c-4f91-aa28-71feabf0beff)
+
 
 
 'About Us' page allows us to get some more information about the quality and the services of the hospital.
 
-![image](https://github.com/Kshitijboi/Ethicure/assets/116621388/befbdfa2-5a16-4d82-a043-92efc88eabdd)
+![image](https://github.com/Kshitijboi/EthiCure/assets/116621388/7d87781d-fad0-4dbc-8913-83196dbe0005)
 
-![image](https://github.com/Kshitijboi/Ethicure/assets/116621388/9628633d-0ecc-4987-8c99-362e6fc1c76c)
+
+![image](https://github.com/Kshitijboi/EthiCure/assets/116621388/c84158d0-ba47-4d90-be09-ed26ca16879a)
+
 
 
 ‘Contact’ page allows users to provide feedback or queries about the services of the hospital. Fig below shows the ‘Contact’ page.
 
-  ![image](https://github.com/Kshitijboi/Ethicure/assets/116621388/d9d2320b-9458-464d-a30f-363e0d52a859)
+  ![image](https://github.com/Kshitijboi/EthiCure/assets/116621388/40386351-4cb1-4d8a-b1fd-b4b69bc2da26)
+
 
 
 The ‘Home’ page consists of 3 modules:
@@ -82,12 +87,14 @@ The ‘Home’ page consists of 3 modules:
   &nbsp; &nbsp; &nbsp; This module allows patients to create their account, book an appointment to see a doctor and see their appointment history.
   The registration page(in the home page itself) asks patients to enter their First Name, Last Name, Email ID, Contact Number, Password and radio buttons to select their gender.
   
-  ![image](https://github.com/Kshitijboi/Ethicure/assets/116621388/053a8cf0-174e-4ee1-9f5d-b6c270e983e1)
+  ![image](https://github.com/Kshitijboi/EthiCure/assets/116621388/2f7deea0-ecd0-40fe-ad8e-4bd18a26d104)
+
 
 
 Once the patient has created his/her own account after clicking the ‘Register’ button, then he will be redirected to his/her Dashboard.
 
-![image](https://github.com/Kshitijboi/Ethicure/assets/116621388/6f36d28a-72f6-4477-9183-e4b08a56ea49)
+![image](https://github.com/Kshitijboi/EthiCure/assets/116621388/93e2f76c-3d1f-4f01-8517-f8fb49964e37)
+
 
 
 The Dashboard page allows patients to perform two operations:
